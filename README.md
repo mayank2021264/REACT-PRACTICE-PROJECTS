@@ -1,12 +1,14 @@
-Tic-Tac-Toe React Game
-This is a simple yet engaging Tic-Tac-Toe game built using React, JavaScript, HTML, and CSS. This project was created as a learning exercise in React, where I explored and applied key concepts such as components, props, useState, hooks, and state management.
+# Tic-Tac-Toe React Game
 
-Features
-Interactive Player Names: Players can edit their names, making the game more personalized.
-Active Player Highlighting: The current player’s name is highlighted during their turn, making it easy to track whose move it is.
-Game Board: A dynamic game board that updates in real-time as players make their moves.
-Game Over Screen: Displays when a player wins or the game ends in a draw, with an option to restart the game.
-Move Logs: A log section to keep track of each move made by the players, showing which player played which move and when.
+This is a simple yet engaging Tic-Tac-Toe game built using **React**, **JavaScript**, **HTML**, and **CSS**. This project was created as a learning exercise in React, where I explored and applied key concepts such as **components**, **props**, **useState**, **hooks**, and **state management**.
+
+## Features
+
+- **Interactive Player Names**: Players can edit their names, making the game more personalized.
+- **Active Player Highlighting**: The current player’s name is **highlighted** during their turn, making it easy to track whose move it is.
+- **Game Board**: A dynamic game board that updates in real-time as players make their moves.
+- **Game Over Screen**: Displays when a player wins or the game ends in a draw, with an option to restart the game.
+- **Move Logs**: A log section to keep track of each move made by the players, showing which player played which move and when.
 Components
 Player Component
 The Player component allows users to change player names and indicates which player is currently active by highlighting their name.
